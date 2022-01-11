@@ -5,7 +5,7 @@ Submitted by :
 [Ashwin Godbole](https://github.com/aelobdog/)
 [Samarth Krishna Murthy](https://github.com/samarthkm/)
 
-Assignment One :
+Assignment One :  
   p1 : A bash-like shell that can execute commands with redirection, piping, double pipes and triple pipes.  
   p2 : A file server that splits files into chunks and stores them across multiple servers.  
   p3 : A clustershell that can execute commands on multiple servers at once.  
