@@ -2,8 +2,7 @@
 A collection of programs written as part of the course Network Programming (IS F462)
 
 Submitted by :
-[Ashwin Godbole](https://github.com/aelobdog/)
-[Samarth Krishna Murthy](https://github.com/samarthkm/)
+[Ashwin Godbole](https://github.com/aelobdog/) & [Samarth Krishna Murthy](https://github.com/samarthkm/)  
 
 Assignment One :  
   p1 : A bash-like shell that can execute commands with redirection, piping, double pipes and triple pipes.  
